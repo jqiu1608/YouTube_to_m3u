@@ -1,0 +1,76 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+華視新聞 | Taiwan News | |
+https://www.youtube.com/channel/UCA_hK5eRICBdSOLlXKESvEg/live
+
+中視新聞 | Taiwan News | |
+https://www.youtube.com/channel/UCmH4q-YjeazayYCVHHkGAMA/live
+
+台視新聞 | Taiwan News | |
+https://www.youtube.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww/live
+
+民視新聞 | Taiwan News | |
+https://www.youtube.com/channel/UClIfopQZlkkSpM1VgCFLRJA/live
+
+東森新聞 | Taiwan News | |
+https://www.youtube.com/channel/UCR3asjvr_WAaxwJYEDV_Bfw/live
+
+東森財經 | Taiwan News | |
+https://www.youtube.com/channel/UCuzqko_GKcj9922M1gUo__w/live
+
+三立新聞 | Taiwan News | |
+https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw/live
+
+三立iNEWS | Taiwan News | |
+https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA/live
+
+寰宇新聞 | Taiwan News | |
+https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live
+
+TVBS新聞 | Taiwan News | |
+https://www.youtube.com/watch?v=V0WxUakDV7M
+
+TVBS | Taiwan News | |
+https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live
+
+新唐人亞太台 | Taiwan News | |
+https://www.youtube.com/channel/UCi4AGjvmSMB9Nn6oyFPYPeQ/live
+
+中天新聞 | Taiwan News | |
+https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live
+
+公視 | Taiwan | |
+https://www.youtube.com/watch?v=JAzRXylm3M0
+
+公視台語 | Taiwan | |
+https://www.youtube.com/channel/UCX6SRupi5lTDbIFJEOpReCQ/live
+
+大愛1台 | Taiwan | |
+https://www.youtube.com/watch?v=oV_i3Hsl_zg
+
+大愛2台 | Taiwan | |
+https://www.youtube.com/watch?v=DTNkEm6jaqQ
+
+大愛3台| Taiwan | |
+https://www.youtube.com/watch?v=MIqUplvSRWA
+
+國會頻道1 | Taiwan News | |
+https://www.youtube.com/watch?v=jRsyBLhot6E
+
+國會頻道2 | Taiwan News | |
+https://www.youtube.com/watch?v=RAP4h3q6_Sg
+
+運通財經 | Taiwan | |
+https://www.youtube.com/user/EFTV01/live
+
+全球財經 | Taiwan | |
+https://www.youtube.com/channel/UCj82QbSA3Dz9ez3W8q-_5bw/live
+
+
+
+
+
+
+
+
