@@ -15,7 +15,7 @@
 https://raw.githubusercontent.com/jqiu1608/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 中視新聞
-https://raw.githubusercontent.com/jqiu1608/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1778865218/ei/4v8GarKEEd-V2_gPnprUqQQ/ip/64.236.133.202/id/TCnaIE_SAtM.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51901744/txs/51901742%2C51901743%2C51901744%2C51901745%2C51901746/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AbKmrwpXU6jw9X7ee27mtBLlSAb0EoB0lyMyPkjm-9Zz820JLrAQS-xMiSwF_qU5BDQcOJrGNzjjuK2M/spc/96Xrv-50N2tXFY7sAdjMNaVCqeLCgSzXJjGokyddTDtEYsY8RMFB4dHwjo2aCxoOJz2bCA/vprv/1/go/1/ns/M-NO9viSnpcLVeSyCVNR3kMV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/AJFVZDF5xqETB0/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgIMzJHD4YlcotYcI4xkk0L2mvJR6XivVo1fLi3CqKJCsCIBudIlh2dqs8W6_ocRzib6wr9UwIJl33TV-oF1IQloDQ/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 台視新聞
 https://raw.githubusercontent.com/jqiu1608/YouTube_to_m3u/main/assets/moose_na.m3u
